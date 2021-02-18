@@ -11,3 +11,5 @@ Minhas modificações ao projeto original:
 - Imagem do perfil e nome do usuário
 - Box-shadow e text shadow em botões e links
 - Cor vermelha para o link "Remover conta"
+
+**Página no Github:**  https://azul92.github.io/DIO_cloneInstagram/
